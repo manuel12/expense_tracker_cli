@@ -1,0 +1,110 @@
+[
+    {
+        "amount": 2,
+        "content": "eggs",
+        "date": "2020-06-02 09:57",
+        "source": "lidl"
+    },
+    {
+        "amount": 1,
+        "content": "milk",
+        "date": "2020-05-28 19:24",
+        "source": "lidl"
+    },
+    {
+        "amount": 1,
+        "content": "tea",
+        "date": "2020-05-28 19:36",
+        "source": "lidl"
+    },
+    {
+        "amount": 12,
+        "content": "EGGS",
+        "date": "2020-05-28 19:24",
+        "source": "lidl"
+    },
+    {
+        "amount": 2,
+        "content": "eggs",
+        "date": "2020-05-28 19:36",
+        "source": "lidl"
+    },
+    {
+        "amount": 2,
+        "content": "oil",
+        "date": "2020-05-28 19:36",
+        "source": "lidl"
+    },
+    {
+        "amount": 2,
+        "content": "bananas",
+        "date": "2020-06-01 20:27",
+        "source": "lidl"
+    },
+    {
+        "amount": 3,
+        "content": "eggs",
+        "date": "2020-05-28 19:45",
+        "source": "lidl"
+    },
+    {
+        "amount": 3,
+        "content": "meat",
+        "date": "2020-05-28 19:52",
+        "source": "lidl"
+    },
+    {
+        "amount": 4,
+        "content": "meat",
+        "date": "2020-05-28 19:24",
+        "source": "lidl"
+    },
+    {
+        "amount": 4,
+        "content": "meat",
+        "date": "2020-06-01 17:42",
+        "source": "lidl"
+    },
+    {
+        "amount": 6,
+        "content": "eggs",
+        "date": "2020-06-03 15:02",
+        "source": "rewe"
+    },
+    {
+        "amount": 9,
+        "content": "meat",
+        "date": "2020-06-03 15:03",
+        "source": "netto"
+    },
+    {
+        "amount": 12,
+        "content": "eggs",
+        "date": "2020-06-03 15:04",
+        "source": "penny"
+    },
+    {
+        "amount": 18,
+        "content": "caviar",
+        "date": "2020-11-04 03:21",
+        "source": "carrefour"
+    },
+    {
+        "amount": 21.92,
+        "content": "meat",
+        "date": "2020-11-25 11:51",
+        "source": "lidl"
+    },
+    {
+        "amount": 12.9,
+        "content": "meat",
+        "date": "2020-11-25 14:23",
+        "source": "netto"
+    },
+    {
+        "amount": 29.02,
+        "content": "meat",
+        "date": "2020-11-25 14:35",
+        "source": "carrefour"
+    }
+]
