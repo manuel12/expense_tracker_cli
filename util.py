@@ -71,7 +71,11 @@ def convert_date_str_to_date_obj(string, format='%Y-%m-%d %H:%M'):
     return False
 
 def get_week_num_from_date(date):
-  return date.strftime("%U")
+  return int(date.strftime("%U"))
+
+def get_todays_week_num():
+  today = datetime.date.today()
+  return get_week_num_from_date(today)
 
 def get_expenses_by_week(expense_list, week_num):
   week_expenses = []

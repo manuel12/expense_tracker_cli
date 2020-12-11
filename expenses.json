@@ -106,5 +106,17 @@
         "content": "meat",
         "date": "2020-11-25 14:35",
         "source": "carrefour"
+    },
+    {
+        "amount": 29.02,
+        "content": "meat",
+        "date": "2020-12-11 11:35",
+        "source": "carrefour"
+    },
+    {
+        "amount": 6,
+        "content": "eggs",
+        "date": "2020-12-12 15:02",
+        "source": "rewe"
     }
 ]
